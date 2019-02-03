@@ -1,7 +1,7 @@
 using LongestCommonSubsequence
 using Test
 
-tests = [ ]
+tests = [ "lcs", ]
 
 for test ∈ tests
     include("$test.jl")
