@@ -1,4 +1,4 @@
-module LCS
+module LongestCommonSubsequence
 
 # ----------------------------------------
 # EXPORTED INTERFACE

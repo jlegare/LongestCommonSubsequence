@@ -1,4 +1,4 @@
-using LCS
+using LongestCommonSubsequence
 using Test
 
 tests = [ ]

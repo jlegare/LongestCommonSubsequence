@@ -2,3 +2,6 @@ name = "LongestCommonSubsequence"
 uuid = "8875b5c8-2807-11e9-0521-3f76219099e1"
 authors = ["Jacques Légaré <jacques.legare70@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
